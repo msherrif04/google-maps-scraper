@@ -1,4 +1,4 @@
-Unidecode
+sourceUnidecode
 geonamescache
 dateutils
 casefy
