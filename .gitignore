@@ -108,7 +108,7 @@ tasks/
 
 profiles/
 
-output/
+# output/
 
 temp/
 NEXT-STEPS
